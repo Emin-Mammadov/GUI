@@ -30,7 +30,6 @@ class ImageLabel(QLabel):
     def setPixmap(self, image):
         super().setPixmap(image)
 
-
 class MainWindow(QMainWindow):
     """Main application window"""
 
