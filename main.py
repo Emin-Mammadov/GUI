@@ -129,7 +129,6 @@ class MainWindow(QMainWindow):
         """Display the drag and dropped image"""
         self.photoViewer.setPixmap(QPixmap(file_path))
 
-
 def main():
     """Run the application"""
     app = QApplication(sys.argv)
