@@ -13,3 +13,6 @@ To use the application, follow these steps:
 8. You can also drag and drop an image file onto the application window. The dropped image will be displayed in the window.
 
 Note: The application supports image files with the extensions ".jpg" and ".png".
+
+After completing the steps above you should see the following GUI:
+<img width="1202" alt="Screen Shot 2023-03-07 at 00 15 47" src="https://user-images.githubusercontent.com/113251203/223278274-8fd2b311-e0c7-4e4b-9a05-23999cbf8f36.png">
